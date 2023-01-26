@@ -1,0 +1,36 @@
+{
+    "840": {
+        "capital":"Washington DC",
+        "citizenship":"American",
+        "iso_numeric":"840",
+        "currency":"US dollar",
+        "currency_code":"USD",
+        "currency_sub_unit":"cent",
+        "full_name":"United States of America",
+        "iso_code":"US",
+        "name":"United States",
+        "region-code":"019",
+        "sub-region-code":"021",
+        "eea":false,
+        "calling_code":"1",
+        "currency_symbol":"$",
+        "flag":"US.png"
+     },
+    "704": {
+        "capital":"Hanoi",
+        "citizenship":"Vietnamese",
+        "iso_numeric":"704",
+        "currency":"dong",
+        "currency_code":"VND",
+        "currency_sub_unit":"(10 h\u00e0o",
+        "full_name":"Socialist Republic of Vietnam",
+        "iso_code":"VN",
+        "name":"Việt Nam",
+        "region-code":"142",
+        "sub-region-code":"035",
+        "eea":false,
+        "calling_code":"84",
+        "currency_symbol":"\u20ab",
+        "flag":"VN.png"
+     }
+}

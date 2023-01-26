@@ -1,0 +1,254 @@
+[
+    {
+      "name": "Hà Nội",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Hà Giang",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Cao Bằng",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Bắc Kạn",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Tuyên Quang",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Lào Cai",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Điện Biên",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Lai Châu",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Sơn La",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Yên Bái",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Hòa Bình",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Thái Nguyên",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Lạng Sơn",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Quảng Ninh",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Bắc Giang",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Phú Thọ",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Vĩnh Phúc",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Bắc Ninh",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Hải Dương",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Hải Phòng",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Hưng Yên",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Thái Bình",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Hà Nam",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Nam Định",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Ninh Bình",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Thanh Hóa",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Nghệ An",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Hà Tĩnh",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Quảng Bình",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Quảng Trị",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Thừa Thiên–Huế",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Đà Nẵng",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Quảng Nam",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Quảng Ngãi",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Bình Định",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Phú Yên",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Khánh Hòa",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Ninh Thuận",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Bình Thuận",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Kon Tum",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Gia Lai",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Đắk Lắk",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Đắk Nông",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Lâm Đồng",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Bình Phước",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Tây Ninh",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Bình Dương",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Đồng Nai",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Bà Rịa–Vũng Tàu",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Thành phố Hồ Chí Minh",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Long An",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Tiền Giang",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Bến Tre",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Trà Vinh",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Vĩnh Long",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Đồng Tháp",
+      "iso_code":"VN"
+    },
+    {
+      "name": "An Giang",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Kiên Giang",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Cần Thơ",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Hậu Giang",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Sóc Trăng",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Bạc Liêu",
+      "iso_code":"VN"
+    },
+    {
+      "name": "Cà Mau",
+      "iso_code":"VN"
+    }
+]
