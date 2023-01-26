@@ -4,6 +4,7 @@
 ```bash
 # Launch docker
 cd docker
+cp .env.example .env
 docker-compose up -d
 docker-compose exec app bash
 # Initialization
